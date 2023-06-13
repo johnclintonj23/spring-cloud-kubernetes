@@ -1,4 +1,4 @@
-# kubernetes-configmap-reload
+# kubernetes-configmap-reload with Handson
 
 Pre-requisites.  [ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
 --------
